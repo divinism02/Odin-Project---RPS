@@ -1,1 +1,1 @@
-# Odin-Project---RPS
+Odin Project - Rock, Paper, Scissors
